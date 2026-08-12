@@ -16,3 +16,5 @@ Question scope is organized around TP 14038 E-rating Standard Practices Avionics
 
 ## Visual v2 update
 The SPE bank now contains extensive original exam-style electrical/electronics figures: Ohm's-law and power formulas, series/parallel circuits, voltage dividers, AC waveforms, RMS and phase graphs, capacitor charging curves, rectifier output, semiconductor characteristic curves, logic/truth tables, binary/hex charts, Wheatstone bridge, transformer ratios and oscilloscope traces. These are original practice figures, not reproduced Transport Canada exam images.
+
+https://alexrahmanov.github.io/AME-E-practice-exam/
