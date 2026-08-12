@@ -2,3 +2,7 @@
 @media(max-width:850px) and (min-width:651px){.exam-picks{grid-template-columns:repeat(2,1fr)}}
 
 .visual-card{margin:0 0 24px;padding:14px 16px 10px;border:1px solid #dbe3ed;border-radius:14px;background:#fbfdff;color:#21344d}.visual-card svg{width:100%;height:auto;display:block;max-height:340px}.visual-label{font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;color:#718096;margin-bottom:8px}.question-card:has(.visual-card){min-height:610px}@media(max-width:650px){.visual-card{padding:10px}.visual-card svg{max-height:280px}.e-picks{grid-template-columns:1fr!important}}
+.visual-exam{margin:18px 0 24px;background:#f8fafc;border:1px solid #d8e1eb;border-radius:14px;padding:12px;overflow:hidden}
+.visual-exam svg{display:block;width:100%;height:auto;max-height:420px}
+.visual-label{font-weight:800;color:#33465e;font-size:.82rem;text-transform:uppercase;letter-spacing:.05em;margin:0 0 8px}
+@media(max-width:650px){.visual-exam{padding:7px}.visual-exam svg{max-height:none}}
